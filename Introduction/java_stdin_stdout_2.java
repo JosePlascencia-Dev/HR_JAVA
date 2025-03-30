@@ -1,3 +1,4 @@
+package Introduction;
 import java.util.Scanner;
 public class java_stdin_stdout_2 {
     public static void main(String[] args) {
