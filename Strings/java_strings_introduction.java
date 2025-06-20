@@ -18,5 +18,6 @@ public class java_strings_introduction {
             System.out.println("No");
         }
         System.out.println(C);
+        sc.close();
     }
 }
